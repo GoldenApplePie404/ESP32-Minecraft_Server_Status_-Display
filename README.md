@@ -1,7 +1,7 @@
 # ESP32-Minecraft_Server_Status_Display
 
 #### 介绍
-这是一个用于嵌入式设备（ESP32）的MicroPython项目，主要功能包括连接WiFi网络、从远程API获取数据，并在OLED显示屏上显示这些信息：一个是远程服务器状态（如CPU使用率、内存使用率等），另一个是Minecraft服务器的在线状态和玩家数量。
+这是一个用于嵌入式设备（ESP32）的MicroPython&Arduino项目，主要功能包括连接WiFi网络、从远程API获取数据，并在OLED显示屏上显示这些信息：一个是远程服务器状态（如CPU使用率、内存使用率等），另一个是Minecraft服务器的在线状态和玩家数量。
 
 ## 简介
 
@@ -58,3 +58,4 @@
 3.增加更多高级功能，如使用SmartConfig一键联网、通过触屏远程管理服务器等；
 
 4.……
+
